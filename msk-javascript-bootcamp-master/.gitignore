@@ -1,0 +1,8 @@
+# Root
+node_modules
+.DS_Store
+wall-of-fame
+# Node modules
+react/projects/react-redux/node_modules
+languages/javascript/interview/problems/node_modules
+
