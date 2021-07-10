@@ -84,3 +84,12 @@ console.log(typeof null);
 console.log(typeof undefined);
 console.log(null == undefined);
 console.log(null === undefined);
+
+
+
+//Give a example that Array is Special type of Object
+
+const arr = [];
+arr[0] = 'shre';
+arr['a'] = 'async'
+console.log(arr);
